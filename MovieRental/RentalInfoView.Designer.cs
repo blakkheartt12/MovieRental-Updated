@@ -523,7 +523,7 @@
             this.moviesToolStripMenuItem,
             this.rentalHistoryToolStripMenuItem});
             this.saveFileToolStripMenuItem.Name = "saveFileToolStripMenuItem";
-            this.saveFileToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.saveFileToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
             this.saveFileToolStripMenuItem.Text = "Save File";
             // 
             // clientToolStripMenuItem
@@ -550,7 +550,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 

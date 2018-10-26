@@ -15,8 +15,8 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_3048D94AAC6040BD8ED1356A87394B17"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_4265E4C2620ED2C52208B1EF518B050D"
+        "OwnerKey" = "8:_61713AC3310F4F089FF95806E8CBEF42"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -33,62 +33,20 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_72CAC949B7184AEA9B072667203898ED"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7FF8FE3705A345C4BA4E6AA9155146DA"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CAB77B15AFF3BD87D102E3BAC042F9A7"
-        "OwnerKey" = "8:_61713AC3310F4F089FF95806E8CBEF42"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CAB77B15AFF3BD87D102E3BAC042F9A7"
-        "OwnerKey" = "8:_D9C2DD739FB340FAB05F33C53927BB5A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_CFD1A4AD3F1648ED8BC8E7C11AC644EB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D9C2DD739FB340FAB05F33C53927BB5A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CAB77B15AFF3BD87D102E3BAC042F9A7"
+        "OwnerKey" = "8:_4265E4C2620ED2C52208B1EF518B050D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_61713AC3310F4F089FF95806E8CBEF42"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_72CAC949B7184AEA9B072667203898ED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D9C2DD739FB340FAB05F33C53927BB5A"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -116,6 +74,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -140,6 +106,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
     }
@@ -170,104 +144,23 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3048D94AAC6040BD8ED1356A87394B17"
-            {
-            "SourcePath" = "8:C:\\Users\\Tracy\\Desktop\\Online_DVD_Rentals-Orig.ico"
-            "TargetName" = "8:Online_DVD_Rentals-Orig.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_5F630EFDBD69493781109B785C161E26"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6417C97E04054AAFACBBDAFBCED5A326"
-            {
-            "SourcePath" = "8:C:\\Users\\Tracy\\Desktop\\Online_DVD_Rentals-Orig.ico"
-            "TargetName" = "8:Online_DVD_Rentals-Orig.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_27551E8DD77A4122B2AD337BF1BDFFBE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_72CAC949B7184AEA9B072667203898ED"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MovieRental, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:..\\MovieRental\\bin\\Release\\MovieRental.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_27551E8DD77A4122B2AD337BF1BDFFBE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7FF8FE3705A345C4BA4E6AA9155146DA"
-            {
-            "SourcePath" = "8:C:\\Users\\Tracy\\Desktop\\MOVIES_log.ldf"
-            "TargetName" = "8:MOVIES_log.ldf"
-            "Tag" = "8:"
-            "Folder" = "8:_90E3BE15B877444F8563D06DAC29DDB2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CAB77B15AFF3BD87D102E3BAC042F9A7"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4265E4C2620ED2C52208B1EF518B050D"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
+                    "_4265E4C2620ED2C52208B1EF518B050D"
+                    {
+                    "Name" = "8:System.Net.Http.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_27551E8DD77A4122B2AD337BF1BDFFBE"
+            "Folder" = "8:_7F7EAA0C368945859CF729C1AF47A739"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -280,6 +173,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6417C97E04054AAFACBBDAFBCED5A326"
+            {
+            "SourcePath" = "8:C:\\Users\\Tracy\\Desktop\\Online_DVD_Rentals-Orig.ico"
+            "TargetName" = "8:Online_DVD_Rentals-Orig.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_7F7EAA0C368945859CF729C1AF47A739"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CFD1A4AD3F1648ED8BC8E7C11AC644EB"
@@ -392,7 +305,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Movie Rental"
         "ProductCode" = "8:{9B4ABC70-A59A-403D-A3BE-AE18961378C0}"
-        "PackageCode" = "8:{93F65F44-595B-412E-9FA1-5550C7B372BE}"
+        "PackageCode" = "8:{A73D48D2-0EDD-42AD-8953-E547903692A9}"
         "UpgradeCode" = "8:{8CA3F417-0064-4DBF-AB87-137284E2DEA9}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -512,7 +425,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_87A3370E128C47ECAC9E62566877F9C2"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_105EEFBDDF3340C2889A5656D307E194"
             {
             "Name" = "8:MovieRental"
             "Arguments" = "8:"
@@ -520,13 +433,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_72CAC949B7184AEA9B072667203898ED"
+            "Target" = "8:_61713AC3310F4F089FF95806E8CBEF42"
             "Folder" = "8:_0D0876C5574743ACA60982F977FDA9A1"
-            "WorkingFolder" = "8:_27551E8DD77A4122B2AD337BF1BDFFBE"
+            "WorkingFolder" = "8:_7F7EAA0C368945859CF729C1AF47A739"
             "Icon" = "8:_6417C97E04054AAFACBBDAFBCED5A326"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_BA485B728BE3453D834258A6A04CC045"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4D9540A7544345C1AFC1DAF4F8900644"
             {
             "Name" = "8:MovieRental"
             "Arguments" = "8:"
@@ -534,9 +447,9 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_72CAC949B7184AEA9B072667203898ED"
+            "Target" = "8:_61713AC3310F4F089FF95806E8CBEF42"
             "Folder" = "8:_CEA52392850341A485C90C2A2D240DFF"
-            "WorkingFolder" = "8:_27551E8DD77A4122B2AD337BF1BDFFBE"
+            "WorkingFolder" = "8:_7F7EAA0C368945859CF729C1AF47A739"
             "Icon" = "8:_6417C97E04054AAFACBBDAFBCED5A326"
             "Feature" = "8:"
             }
@@ -940,34 +853,6 @@
         "ProjectOutput"
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_61713AC3310F4F089FF95806E8CBEF42"
-            {
-            "SourcePath" = "8:..\\MovieRental\\obj\\Release\\MovieRental.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_27551E8DD77A4122B2AD337BF1BDFFBE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{59DAF853-205F-4A40-BC2D-229C4C6FAEA6}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D9C2DD739FB340FAB05F33C53927BB5A"
             {
             "SourcePath" = "8:..\\MovieRental\\obj\\Release\\MovieRental.exe"
             "TargetName" = "8:"
